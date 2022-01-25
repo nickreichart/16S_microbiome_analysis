@@ -8,7 +8,9 @@ Currently the scripts cover generating:
 
 * bar plots 
 
-* ordination plots.
+* ordination plots
+
+* box and whisker plots.
 
 All required packages and files are listed within each script.
 
